@@ -114,6 +114,15 @@ bookmarks:
 python3 -m unittest discover -s tests
 ```
 
+## Contributing
+
+Issues are disabled. Pull requests are welcome from forks and are merged at the
+maintainer's discretion.
+
+## License
+
+[MIT](LICENSE)
+
 ## Disclaimer
 
 Not affiliated with The Browser Company or Zen Browser. Use at your own risk and keep
